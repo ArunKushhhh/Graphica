@@ -1,0 +1,78 @@
+
+
+  
+  body{
+    background-color: rgb(213, 200, 233);
+  font-family: 'Freshwost', sans-serif;
+  }
+  @font-face {
+    font-family: "freshwost" ;
+    src: url("Freshwost-1GJJL.otf")format(opentype);
+}
+
+.INTERACT{margin-top:30px;
+        margin-bottom: 20px;
+        align-items:center;
+        margin-left:600px;
+        margin-right: 800px;
+        font-size: 46px;
+        font-weight: 150px;
+        background-color: rgb(211, 166, 241);
+ border-radius: 10px;
+
+}
+.body{display: flex;
+    margin-top: 30px;
+    color: rgb(48, 71, 71); 
+    margin:15px;
+}
+.mod{
+    align-items: center;
+    margin-left: 60px;
+}
+.adoption{ border-radius: 9px;
+    height: 350px;
+    width: 400px;
+    margin-left: 10px;
+    padding-left: 25px;
+    padding-top: 20px;
+    background-color: #c298e9;}
+    
+.ENGAGE{
+    border-radius: 9px;
+    height: 350px;
+    width: 400px;
+    margin-left: 10px;
+    padding-left: 35px;
+    padding-top: 20px;
+    background-color: #c298e9;
+
+}
+.happyfamilies{
+    border-radius: 9px;
+    height: 350px;
+    width: 400px;
+    margin-left: 10px;
+    padding-left: 25px;
+    padding-top: 20px;
+    background-color: #c298e9;
+  
+}
+.Stories{
+    border-radius: 9px;
+    height: 350px;
+    width: 400px;
+    margin-left: 10px;
+    padding-left: 25px;
+    padding-top: 20px;
+    background-color: #c298e9;
+
+}
+
+.header{ margin-left:50px;}
+
+.header img {
+    height: 500px;
+    width: 900px;
+    margin-left: 20px;
+}
